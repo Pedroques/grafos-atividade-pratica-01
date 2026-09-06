@@ -1,4 +1,4 @@
-# Algoritmos em Grafos - Atividade Prática (PUC Minas)
+# Algoritmos em Grafos - Atividade Prática 01
 
 
 Este repositório contém a solução em **C#** para a atividade prática de representação e percurso em redes de Grafos.
