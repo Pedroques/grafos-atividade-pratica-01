@@ -1,11 +1,7 @@
 # Algoritmos em Grafos - Atividade Prática 01
 
-
-Este repositório contém a solução em **C#** para a atividade prática de representação e percurso em redes de Grafos.
-
-
 ## Contexto da Rede
-O problema foi modelado simulando uma **infraestrutura logística residencial de um bairro**.
+O problema foi modelado simulando uma **infraestrutura logística residencial de um bairro**, usando **C#**.
 * **Vértices:** Representam **Casas Residenciais** (identificadas de V0 a V7).
 * **Arestas:** Representam as **ruas e vias públicas de sentido bidirecional** (mão dupla) que conectam diretamente os pares de residências.
 
