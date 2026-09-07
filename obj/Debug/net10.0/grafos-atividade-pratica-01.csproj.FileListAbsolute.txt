@@ -1,0 +1,15 @@
+/home/pedroques/grafos-atividade-pratica-01/bin/Debug/net10.0/grafos-atividade-pratica-01
+/home/pedroques/grafos-atividade-pratica-01/bin/Debug/net10.0/grafos-atividade-pratica-01.deps.json
+/home/pedroques/grafos-atividade-pratica-01/bin/Debug/net10.0/grafos-atividade-pratica-01.runtimeconfig.json
+/home/pedroques/grafos-atividade-pratica-01/bin/Debug/net10.0/grafos-atividade-pratica-01.dll
+/home/pedroques/grafos-atividade-pratica-01/bin/Debug/net10.0/grafos-atividade-pratica-01.pdb
+/home/pedroques/grafos-atividade-pratica-01/obj/Debug/net10.0/grafos-atividade-pratica-01.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedroques/grafos-atividade-pratica-01/obj/Debug/net10.0/grafos-atividade-pratica-01.AssemblyInfoInputs.cache
+/home/pedroques/grafos-atividade-pratica-01/obj/Debug/net10.0/grafos-atividade-pratica-01.AssemblyInfo.cs
+/home/pedroques/grafos-atividade-pratica-01/obj/Debug/net10.0/grafos-atividade-pratica-01.csproj.CoreCompileInputs.cache
+/home/pedroques/grafos-atividade-pratica-01/obj/Debug/net10.0/grafos-atividade-pratica-01.sourcelink.json
+/home/pedroques/grafos-atividade-pratica-01/obj/Debug/net10.0/grafos-atividade-pratica-01.dll
+/home/pedroques/grafos-atividade-pratica-01/obj/Debug/net10.0/refint/grafos-atividade-pratica-01.dll
+/home/pedroques/grafos-atividade-pratica-01/obj/Debug/net10.0/grafos-atividade-pratica-01.pdb
+/home/pedroques/grafos-atividade-pratica-01/obj/Debug/net10.0/grafos-atividade-pratica-01.genruntimeconfig.cache
+/home/pedroques/grafos-atividade-pratica-01/obj/Debug/net10.0/ref/grafos-atividade-pratica-01.dll
