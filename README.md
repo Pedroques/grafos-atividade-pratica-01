@@ -29,7 +29,7 @@ O problema foi modelado simulando uma **infraestrutura logística residencial de
 Dependendo do terminal do sistema operacional (VS Code Debug Console, Windows PowerShell ou Linux Bash), colar as 64 entradas numéricas de uma única vez em bloco pode estourar o buffer de leitura do console, gerando erros de digitação automática.
 
 
-Para carregar o **grafo dos testes** sem travamentos em seu notebook, insira os valores manualmente na **Opção 1** respeitando a quebra de linha visual que o programa executa a cada linha da matriz.
+Para carregar o **grafo do enunciado** sem travamentos em seu notebook, insira os valores manualmente na **Opção 1** respeitando a quebra de linha visual que o programa executa a cada linha da matriz, abaixo a sequência usada nos testes.
 
 
 ### Sequência de Linhas para Digitação Rápida:
